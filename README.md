@@ -1,9 +1,11 @@
 # 💫 About Me:
-🧠 I’m currently building a custom AI chatbot with a self-trained tokenizer and transformer model.<br>
-🕹️ I’m also working on indie game development projects and AI benchmarking tools.<br>
-🤝 Open to collaboration on AI/ML, game dev, or system tools.<br>
-🌱 Currently learning advanced token compression methods and diffusion models for text generation.<br>
-💬 Ask me about AI architectures, Transformers, tokenizers, or backend logic.<br>
+🧠 AI developer focused on LLMs, tokenization, and model optimization — I enjoy building models from the ground up and understanding how they work internally.
+⚙️ Skilled in Python, ML pipelines, transformer architecture, and local-first AI systems.
+🕹️ Indie developer exploring game systems, simulation logic, and performance-focused design.
+📊 Interested in AI benchmarking, evaluation methods, and efficient inference.
+🌱 Currently diving deeper into token compression, diffusion-style text generation, and lightweight model training.
+🤝 Open to collaboration on AI/ML, game dev, or low-level/system-oriented tools.
+💬 Ask me about transformers, tokenizers, backend logic, or building AI locally.>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@sylo_3285) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/Pr76p4MAhy) [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFB000?logo=huggingface&logoColor=white)](https://huggingface.co/Sylo3285)
