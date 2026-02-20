@@ -18,8 +18,7 @@
 
 ---
 # 🛠️ Projects:
-**Adaptera** – https://github.com/Sylo3285/Adaptera  
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/adaptera?period=total&units=INTERNATIONAL_SYSTEM&left_color=black&right_color=green&left_text=downloads)](https://pepy.tech/project/adaptera)
+**Adaptera** – https://github.com/Sylo3285/Adaptera  [![PyPI Downloads](https://static.pepy.tech/personalized-badge/adaptera?period=total&units=INTERNATIONAL_SYSTEM&left_color=black&right_color=green&left_text=downloads)](https://pepy.tech/project/adaptera)
 
 ---
 
